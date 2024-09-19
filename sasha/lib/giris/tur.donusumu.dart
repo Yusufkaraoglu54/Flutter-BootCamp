@@ -20,4 +20,5 @@ void main() {
   double sonuc6 = double.parse(yazi2);
   print(sonuc5);
   print(sonuc6);
+  print("Deneme");
 }
